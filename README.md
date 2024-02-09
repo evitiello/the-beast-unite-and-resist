@@ -22,6 +22,9 @@ these scripts.  In the end, one of the other teams prevailed.
 
 I thought now might be a good time to release this code, since I just recently rewatched the movie.
 
+There is [an archive](https://web.archive.org/web/20010624120143/http://www.perceive.net/cloudmakers/)
+of the home page for this on my website.
+
 ## The Code
 
 In this repository you'll find the code that was used for brute forcing.  I was inspired
