@@ -2,7 +2,7 @@
 
 ## Preface
 
-In the year 2000, the movie [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)
+In the year 2001, the movie [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)
 was announced.  As part of the marketing effort for the movie, Warner Brothers enlisted Microsoft
 to create an [Alternate Reality Game](https://en.wikipedia.org/wiki/Alternate_reality_game)
 that became known as [The Beast](https://en.wikipedia.org/wiki/The_Beast_(game)).
